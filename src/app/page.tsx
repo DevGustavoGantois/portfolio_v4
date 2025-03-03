@@ -1,3 +1,4 @@
+import { AboutSection } from "./s-about";
 import { CasesSection } from "./s-cases";
 import { CTASection } from "./s-cta";
 import { DiferentialWork } from "./s-diferential-work";
@@ -14,6 +15,7 @@ export default function Page() {
     <CasesSection />
     <WorkSection />
     <DiferentialWork />
+    <AboutSection />
     <div className="h-[3000px]"></div>
     </>
   );
