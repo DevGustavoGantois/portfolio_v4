@@ -1,3 +1,4 @@
+import { ChartWorkComponent } from "@/components/chart-component"
 import Image from "next/image"
 
 const diferentialWorkData = [
@@ -28,6 +29,9 @@ export function DiferentialWork() {
                     </div>
                 )
             })}
+            </div>
+            <div className="flex items-center justify-center mt-10">
+                <ChartWorkComponent />
             </div>
         </section>
     )
