@@ -17,31 +17,47 @@ export function InfiniteMovingCardsDemo() {
 const testimonials = [
   {
     quote:
-      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
-    name: "Charles Dickens",
-    title: "A Tale of Two Cities",
+      "Ótimo trabalho! O site está responsivo e com uma ótima experiência de usuário, design excepcional com animações bem leves e reativas como eu esperava. Meus parabéns!",
+    name: "Eduardo Sávio",
   },
   {
     quote:
-      "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
-    name: "William Shakespeare",
-    title: "Hamlet",
+      "Irmão está muito bom o site, ficou perfeito!",
+    name: "Matheus Hayashi",
   },
   {
-    quote: "All that we see or seem is but a dream within a dream.",
-    name: "Edgar Allan Poe",
-    title: "A Dream Within a Dream",
+    quote: "O site ficou muito bom irmão! Está muito lindo de verdade, muito obrigado!",
+    name: "Matheus Caria",
   },
   {
     quote:
-      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-    name: "Jane Austen",
-    title: "Pride and Prejudice",
+      "Site ficou muito bom, convence muito bem o cliente de fechar a compra, me poupa muito o trabalho de vender no boca a boca, entregou dentro do prazo e supriu todas as minhas expectativas",
+    name: "Samuel Fernandes",
   },
   {
     quote:
-      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-    name: "Herman Melville",
-    title: "Moby-Dick",
+      "Guga, você é o cara, o site ficou muito bom, você conseguiu transmitir dentro do site exatamente o que eu te pedi.",
+    name: "Maurício Sampaio",
   },
+  {
+    quote:
+      "Fera demais! Parabéns mesmo, o projeto ficou muito bom!",
+    name: "Thomaz",
+  },
+  {
+    quote: "Ficou show Gustavo! O site ficou perfeito e transmitiu o que eu quero passar para os meus clientes!",
+    name: "Mônica Aran",
+  },
+  {
+    quote: "Trabalhar com Gustavo no Hackathon da FullDev foi essencial para o sucesso do projeto. Como designer UI/UX e desenvolvedor front-end, ele criou uma identidade visual original e de alta qualidade usando React e Next.js. Proativo, comunicativo e dedicado, sua contribuição foi fundamental para conquistarmos o primeiro lugar. Recomendo Gustavo sem dúvida para qualquer desafio!",
+    name: "Eric Souza dos Santos",
+  },
+  {
+    quote: "Colaborar com Gustavo no Hackathon Ato 5 da Fulldev foi incrível! Sua visão criativa e habilidade em transformar ideias em interfaces intuitivas elevaram o projeto. Tenho certeza de que ele fará a diferença em qualquer equipe!",
+    name: "Carlos Augusto",
+  },
+  {
+    quote: "Minha sincera gratidão ao Gustavo pelo excelente trabalho como designer e desenvolvedor front-end. Sua criatividade e técnica foram impecáveis. Foi um prazer trabalhar com você e espero colaborarmos novamente no futuro!",
+    name: "Gabriel Dias Santiago",
+  }
 ];

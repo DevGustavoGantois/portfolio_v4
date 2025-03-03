@@ -6,7 +6,7 @@ const TestimonialsSectionData = [
 
 export function TestimonialsSection() {
     return (
-        <section className="mt-20">
+        <section id="testimonials" className="mt-20">
             {TestimonialsSectionData.map((item, index) => {
                 return (
                     <div key={index} className="flex flex-col items-center justify-center gap-4">
