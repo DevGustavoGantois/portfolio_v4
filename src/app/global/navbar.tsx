@@ -8,37 +8,37 @@ export function Navbar() {
       <div className="hidden lg:flex items-center justify-center gap-12">
         <nav className="flex items-center justify-center">
             <ul className="flex items-center justify-around gap-8">
-                <li className="text-white transition-all duration-700 hover:text-[#05FFFF]">
+                <li className="text-white transition-all duration-700 hover:text-[#05FFFF] hover:-translate-y-2">
                 <Link href="#hero">
                     Início
                 </Link>
                 </li>
-                <li className="text-white transition-all duration-700 hover:text-[#05FFFF]">
+                <li className="text-white transition-all duration-700 hover:text-[#05FFFF] hover:-translate-y-2">
                 <Link href="#services">
                     Serviços
                 </Link>
                 </li>
-                <li className="text-white transition-all duration-700 hover:text-[#05FFFF]">
+                <li className="text-white transition-all duration-700 hover:text-[#05FFFF] hover:-translate-y-2">
                 <Link href="#showCases">
                     Show Cases
                 </Link>
                 </li>
-                <li className="text-white transition-all duration-700 hover:text-[#05FFFF]">
+                <li className="text-white transition-all duration-700 hover:text-[#05FFFF] hover:-translate-y-2">
                 <Link href="#whoWork">
                 Como trabalho?
                 </Link>
                 </li>
-                <li className="text-white transition-all duration-700 hover:text-[#05FFFF]">
+                <li className="text-white transition-all duration-700 hover:text-[#05FFFF] hover:-translate-y-2">
                 <Link href="#about">
                 Sobre mim
                 </Link>
                 </li>
-                <li className="text-white transition-all duration-700 hover:text-[#05FFFF]">
+                <li className="text-white transition-all duration-700 hover:text-[#05FFFF] hover:-translate-y-2">
                 <Link href="#testimonials">
                 Depoimentos
                 </Link>
                 </li>
-                <li className="text-white transition-all duration-700 hover:text-[#05FFFF]">
+                <li className="text-white transition-all duration-700 hover:text-[#05FFFF] hover:-translate-y-2">
                 <Link href="#contact">
                 Contato
                 </Link>
@@ -47,7 +47,7 @@ export function Navbar() {
         </nav>
         <div>
                 <Button className="p-6" variant="default" asChild>
-                    <Link href="" target="_blank">
+                    <Link href="https://wa.me/5571999588246?text=Ol%C3%A1%20Gustavo!%20Tudo%20bem!?%20Queria%20solicitar%20um%20or%C3%A7amento!" target="_blank">
                     Encontre uma solução para você
                     </Link>
                 </Button>

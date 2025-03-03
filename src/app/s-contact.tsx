@@ -15,7 +15,7 @@ export function ContactSection() {
                 ágil e 100% focado na melhor solução para você.
                 </p>
                 <Button className="p-6 z-50" variant="secondary" asChild>
-                    <Link href="" target="_blank">
+                    <Link href="https://wa.me/5571999588246?text=Ol%C3%A1%20Gustavo!%20Tudo%20bem!?%20Queria%20solicitar%20um%20or%C3%A7amento!" target="_blank">
                         Vamos trabalhar juntos!
                     </Link>
                 </Button>

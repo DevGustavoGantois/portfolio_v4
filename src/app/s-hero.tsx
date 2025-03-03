@@ -1,8 +1,6 @@
 import React from "react";
 import { Spotlight } from "@/components/ui/Spotlight";
 import Image from "next/image";
-//import { Button } from "@/components/ui/button";
-//import Link from "next/link";
 
 export function HeroSection() {
   return (
@@ -29,13 +27,6 @@ export function HeroSection() {
         </p>
       </div>
       </main>
-      <div className=" z-50 flex items-center justify-center">
-        {/*<Button className="p-6" variant="secondary">
-            <Link href="" target="_blank">
-            Solicite um orçamento
-            </Link>
-        </Button>*/}
-      </div>
       <div className="flex items-center justify-center w-screen">
       <Image src="/HeroBlockImg.svg" className="w-full h-full" width={860} height={260} alt="" />
       </div>
