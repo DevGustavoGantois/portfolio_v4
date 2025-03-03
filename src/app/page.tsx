@@ -1,5 +1,6 @@
 import { AboutSection } from "./s-about";
 import { CasesSection } from "./s-cases";
+import { ContactSection } from "./s-contact";
 import { CTASection } from "./s-cta";
 import { DiferentialWork } from "./s-diferential-work";
 import { HeroSection } from "./s-hero";
@@ -18,7 +19,7 @@ export default function Page() {
     <DiferentialWork />
     <AboutSection />
     <TestimonialsSection />
-    <div className="h-[3000px]"></div>
+    <ContactSection />
     </>
   );
 }
