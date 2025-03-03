@@ -146,3 +146,13 @@ html {
       animation: spotlight 2s ease 0.75s 1 forwards;
     }
   }
+
+  @keyframes scroll {
+    to {
+      transform: translate(calc(-50% - 0.5rem));
+    }
+  }
+  
+  .animate-scroll {
+    animation: scroll 40s linear infinite;
+  }

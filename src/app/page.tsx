@@ -4,6 +4,7 @@ import { CTASection } from "./s-cta";
 import { DiferentialWork } from "./s-diferential-work";
 import { HeroSection } from "./s-hero";
 import { ServiceSection } from "./s-service";
+import { TestimonialsSection } from "./s-testimonials";
 import { WorkSection } from "./whoWork";
 
 export default function Page() {
@@ -16,6 +17,7 @@ export default function Page() {
     <WorkSection />
     <DiferentialWork />
     <AboutSection />
+    <TestimonialsSection />
     <div className="h-[3000px]"></div>
     </>
   );

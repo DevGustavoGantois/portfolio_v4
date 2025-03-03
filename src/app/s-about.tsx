@@ -22,7 +22,10 @@ export function AboutSection() {
                                     <p className="text-base text-gray-500 max-w-[437px]">
                                         {item.description}
                                     </p>
-                                    <p className="text-base text-gray-500 mt-6">{item.softSkills}</p>
+                                    <div className="flex flex-col mt-6 gap-2">
+                                    <p className="text-gray-500 text-xl">Soft Skills:</p>
+                                    <p className="text-base text-gray-500">{item.softSkills}</p>
+                                    </div>
                                 </article>
                             )
                         })}
