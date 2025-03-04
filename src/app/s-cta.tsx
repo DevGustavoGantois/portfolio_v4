@@ -41,7 +41,7 @@ export function CTASection() {
                 )
             })}
             <div>
-                <div className="flex items-center justify-center mt-10" data-aos="zoom-in">
+                <div className="flex items-center justify-center mt-10" data-aos="zoom-down" data-aos-delay="300">
                 <h1 className="text-3xl lg:text-5xl text-center  bg-clip-text text-transparent bg-gradient-to-r from-[#FFFF] to-[#0AE7E7] max-w-[1300px]">
                 O sucesso hoje requer a agilidade e a capacidade de se adaptar rapidamente. O futuro pertence àqueles que inovam.
                 </h1>
