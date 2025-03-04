@@ -34,8 +34,8 @@ export function ServiceSection() {
                     <Image src="/CodeService.svg" className="w-full h-full" width={800} height={400} alt="" />
                 </figure>
                 <div className="flex flex-col items-center lg:items-start gap-4 mt-20">
-                    <h1 className="text-white font-medium text-2xl" data-aos="fade-right">Desenvolvimento de software</h1>
-                    <p className="text-base text-gray-500 max-w-[400px]" data-aos="fade-right" data-aos-delay="200">Desenvolvemos diversos tipos de software de acordo com a necessidade do cliente.</p>
+                    <h1 className="text-white font-medium text-2xl" data-aos="fade-up">Desenvolvimento de software</h1>
+                    <p className="text-base text-gray-500 max-w-[400px]" data-aos="fade-up" data-aos-delay="200">Desenvolvemos diversos tipos de software de acordo com a necessidade do cliente.</p>
                     <div className="flex flex-wrap gap-2">
                         {serviceSmallerCard.map((item, index) => {
                             return (
