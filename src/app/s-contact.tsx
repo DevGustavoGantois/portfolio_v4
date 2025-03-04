@@ -6,7 +6,7 @@ export function ContactSection() {
     return (
         <section id="contact" className="mt-40 lg:mt-60 relative z-50">
             <div className="flex flex-col justify-center items-center gap-4 z-50">
-                <h1 className="flex flex-col justify-center text-center items-center text-4xl text-white" data-aos="zoom-in-up">
+                <h1 className="flex flex-col justify-center text-center items-center text-4xl text-white" data-aos="flip-up">
                     Entre em contato
                     <span className="text-[#00FFFF]">Profissionalismo e Soluções Garantidas!</span>
                 </h1>
