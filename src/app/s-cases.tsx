@@ -9,11 +9,11 @@ export function CasesSection() {
             <div className="border-white/50 border-1 w-1/4 rounded-4xl p-1.5">
                 <p className="text-white text-center pl-0 lg:pl-4" data-aos="fade-up">Show Cases</p>
             </div>
-            <h1 className="text-white text-center lg:text-start text-4xl max-w-[624px]" data-aos="zoom-in-down">
+            <h1 className="text-white text-center lg:text-start text-4xl max-w-[624px]" data-aos="fade-down">
                 Transformamos os desafios dos nossos clientes em soluções digitais eficientes.
             </h1>
             </div>
-            <p className="text-base text-center lg:text-start mt-6 lg:mt-0 text-gray-500 max-w-[300px]" data-aos="fade-left">
+            <p className="text-base text-center lg:text-start mt-6 lg:mt-0 text-gray-500 max-w-[300px]" data-aos="fade-up">
                 Alguns dos trabalhos feitos com perfeição para os nossos clientes.
             </p>
             </div>
