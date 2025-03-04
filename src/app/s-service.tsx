@@ -21,7 +21,7 @@ const serviceSmallerCard = [
 
 export function ServiceSection() {
     return (
-        <section id="services" className="mt-40 max-w-[1440px] mx-auto p-8 lg:p-0">
+        <section id="services" className="mt-10 lg:mt-40 max-w-[1440px] mx-auto p-8 lg:p-0">
            <main className="flex items-center flex-col justify-center">
            <div className="rounded-t-md lg:rounded-t-[80px] p-6 border-t-2 w-full border-t-[#F9FFFF]/50 z-50">
                 <h1 className="bg-clip-text mt-10 text-center text-transparent bg-gradient-to-r from-[#FFFF] to-[#D8D8D8]/30 font-semibold text-4xl mb-3" data-aos="flip-up">Nossas soluções</h1>
