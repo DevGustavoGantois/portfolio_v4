@@ -10,8 +10,8 @@ export function TestimonialsSection() {
             {TestimonialsSectionData.map((item, index) => {
                 return (
                     <div key={index} className="flex flex-col items-center justify-center gap-4">
-                        <h1 className="text-white text-4xl text-center">{item.title}</h1>
-                        <p className="text-base text-center text-gray-500 max-w-[403px]">{item.description}</p>
+                        <h1 className="text-white text-4xl text-center" data-aos="fade-up">{item.title}</h1>
+                        <p className="text-base text-center text-gray-500 max-w-[403px]" data-aos="fade-up" data-aos-delay="200">{item.description}</p>
                     </div>
                 )
             })}

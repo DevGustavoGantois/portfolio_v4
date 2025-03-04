@@ -7,13 +7,13 @@ export function CasesSection() {
             <div className="flex flex-col items-center lg:flex-row justify-between">
             <div className="flex justify-center items-center lg:items-start flex-col gap-2">
             <div className="border-white/50 border-1 w-1/4 rounded-4xl p-1.5">
-                <p className="text-white text-center pl-0 lg:pl-4">Show Cases</p>
+                <p className="text-white text-center pl-0 lg:pl-4" data-aos="fade-up">Show Cases</p>
             </div>
-            <h1 className="text-white text-center lg:text-start text-4xl max-w-[624px]">
+            <h1 className="text-white text-center lg:text-start text-4xl max-w-[624px]" data-aos="zoom-in-down">
                 Transformamos os desafios dos nossos clientes em soluções digitais eficientes.
             </h1>
             </div>
-            <p className="text-base text-center lg:text-start mt-6 lg:mt-0 text-gray-500 max-w-[300px]">
+            <p className="text-base text-center lg:text-start mt-6 lg:mt-0 text-gray-500 max-w-[300px]" data-aos="fade-left">
                 Alguns dos trabalhos feitos com perfeição para os nossos clientes.
             </p>
             </div>

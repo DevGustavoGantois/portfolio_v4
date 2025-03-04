@@ -18,11 +18,11 @@ export function AboutSection() {
                         {aboutData.map((item, index) => {
                             return (
                                 <article key={index}>
-                                    <h1 className="text-4xl  bg-clip-text text-transparent bg-gradient-to-r from-[#FFFF] to-[#0AE7E7] mb-4">{item.title}</h1>
-                                    <p className="text-base text-gray-500 max-w-[437px]">
+                                    <h1 className="text-4xl  bg-clip-text text-transparent bg-gradient-to-r from-[#FFFF] to-[#0AE7E7] mb-4" data-aos="fade-down">{item.title}</h1>
+                                    <p className="text-base text-gray-500 max-w-[437px]" data-aos="fade-down" data-aos-delay="200">
                                         {item.description}
                                     </p>
-                                    <div className="flex flex-col mt-6 gap-2">
+                                    <div className="flex flex-col mt-6 gap-2" data-aos="fade-down" data-aos-delay="300">
                                     <p className="text-gray-500 text-xl">Soft Skills:</p>
                                     <p className="text-base text-gray-500">{item.softSkills}</p>
                                     </div>

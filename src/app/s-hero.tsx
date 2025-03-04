@@ -15,14 +15,14 @@ export function HeroSection() {
       />
       <div className="flex flex-col mt-0 lg:mt-64">
       <main className="mt-40 lg:mt-0">
-      <div className="flex justify-center items-center">
+      <div className="flex justify-center items-center" data-aos="fade-down">
         <Image src="/roleImg.svg" width={260} height={260} alt="" />
       </div>
       <div className="p-4 max-w-6xl mx-auto relative z-10 w-full pt-20 md:pt-0 -mt-20 md:mt-0 lg:mt-0">
-        <h1 className="text-4xl md:text-6xl font-normal text-center bg-clip-text text-transparent bg-gradient-to-b from-[#FFFF] to-[#D8D8D8] bg-opacity-50">
+        <h1 data-aos="fade-up" data-aos-delay="200" className="text-4xl md:text-6xl font-normal text-center bg-clip-text text-transparent bg-gradient-to-b from-[#FFFF] to-[#D8D8D8] bg-opacity-50">
           Eleve seu negócio com design e código de alto nível
         </h1>
-        <p className="mt-4 font-normal text-base text-gray-500 max-w-lg text-center mx-auto">
+        <p data-aos="fade-up" data-aos-delay="300" className="mt-4 font-normal text-base text-gray-500 max-w-lg text-center mx-auto">
           Transformo ideias em experiências digitais incríveis. Destaque-se da concorrência com sites e sistemas que inspiram e impactam!
         </p>
       </div>

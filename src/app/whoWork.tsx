@@ -21,12 +21,12 @@ const cardsWorkData = [
 export function WorkSection() {
     return (
         <section id="whoWork" className="max-w-[1440px] mx-auto px-8 lg:px-0 mt-20 flex flex-col items-center">
-            <h1 className="text-2xl lg:text-4xl text-white text-center flex flex-col">
+            <h1 className="text-2xl lg:text-4xl text-white text-center flex flex-col" data-aos="fade-down">
                 Soluções Digitais Sob Medida
                 <span className="text-[#0AE7E7]">Do Planejamento à Entrega Perfeita</span>
             </h1>
 
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-24">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-24" data-aos="fade-down" data-aos-delay="300">
                 {cardsWorkData.map((item, index) => (
                     <article key={index} className="bg-gradient-to-b from-black via-[#0F0F0F] to-[#030303] p-6 rounded-lg border-b-1 border-r-2 border-white/10">
                         <div className="flex flex-col gap-4 items-start relative">

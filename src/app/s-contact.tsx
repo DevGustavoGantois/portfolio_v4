@@ -6,11 +6,11 @@ export function ContactSection() {
     return (
         <section id="contact" className="mt-40 lg:mt-60 relative z-50">
             <div className="flex flex-col justify-center items-center gap-4 z-50">
-                <h1 className="flex flex-col justify-center text-center items-center text-4xl text-white">
+                <h1 className="flex flex-col justify-center text-center items-center text-4xl text-white" data-aos="zoom-in-up">
                     Entre em contato
                     <span className="text-[#00FFFF]">Profissionalismo e Soluções Garantidas!</span>
                 </h1>
-                <p className="text-gray-500 text-base text-center max-w-[575px] mb-4">
+                <p className="text-gray-500 text-base text-center max-w-[575px] mb-4" data-aos="flip-up">
                 Vamos transformar sua ideia em realidade! Entre em contato e conte com um serviço profissional, 
                 ágil e 100% focado na melhor solução para você.
                 </p>

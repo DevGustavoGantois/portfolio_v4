@@ -16,7 +16,7 @@ export function Footer() {
                   <Mail />
                   </a>
                 </div>
-                <Link href="" target="_blank" className="text-base text-white transition-all duration-700 hover:-translate-y-2 hover:text-[#00FFFF] font-light">
+                <Link href="https://www.instagram.com/devgustavogantois_/" target="_blank" className="text-base text-white transition-all duration-700 hover:-translate-y-2 hover:text-[#00FFFF] font-light">
                 Desenvolvido por @devgustavogantois_
                 </Link>
             </div>
