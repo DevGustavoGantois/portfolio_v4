@@ -223,7 +223,7 @@ const cards = [
   },
   {
     description: "Novasce",
-    title: "Landing Page | Empresa de software",
+    title: "Landing Page | Emp. software",
     src: "https://assets.aceternity.com/demos/babbu-maan.jpeg",
     ctaText: "Play",
     ctaLink: "https://novasce-website-next-tailwind-css.vercel.app/",
@@ -244,7 +244,7 @@ const cards = [
 
   {
     description: "SF Team",
-    title: "Landing Page | Consultoria de Bodybuilding",
+    title: "Landing Page | Bodybuilding",
     src: "https://assets.aceternity.com/demos/metallica.jpeg",
     ctaText: "Play",
     ctaLink: "https://lp-sf-team-consultoria.vercel.app/",
@@ -300,7 +300,7 @@ const cards = [
   },
   {
     description: "Full Dev Community",
-    title: "Saas | Sistema de gerênciamento de atividades diárias/semanais.",
+    title: "Saas | MVP de gerenciamento.",
     src: "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
     ctaText: "Play",
     ctaLink: "https://fulldev-seven.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaZTMuQeNDinOGKcBt59yV2zoTk5G0r3EB5lYZB2tXQvOoB4sH5JM1rn0oo_aem__QaWJekN-srZCm1KDCDSzQ",
@@ -320,7 +320,7 @@ const cards = [
   },
   {
     description: "Clínica Hayashi",
-    title: "Landing Page | Serviços Médicos.",
+    title: "Landing Page | Serv. Médicos.",
     src: "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
     ctaText: "Play",
     ctaLink: "https://clinicahayashi.app.br/",
@@ -339,7 +339,7 @@ const cards = [
   },
   {
     description: "Space Blog",
-    title: "Blog | Blog desenvolvido para abordar assuntos e temas espaciais.",
+    title: "Blog | Blog temático.",
     src: "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
     ctaText: "Play",
     ctaLink: "https://space-blog-mu.vercel.app/",
@@ -358,7 +358,7 @@ const cards = [
   },
   {
     description: "Dev Streak",
-    title: "Landing Page | Captação de leads para aplicativo.",
+    title: "Landing Page | Capt. de leads.",
     src: "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
     ctaText: "Play",
     ctaLink: "https://fulldev-seven.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaZTMuQeNDinOGKcBt59yV2zoTk5G0r3EB5lYZB2tXQvOoB4sH5JM1rn0oo_aem__QaWJekN-srZCm1KDCDSzQ",

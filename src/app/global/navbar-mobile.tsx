@@ -24,7 +24,6 @@ export function NavbarMobile() {
         </Button>
       </div>
 
-      {/* Menu Mobile - fundo branco sem blur */}
       <div
         className={`fixed top-0 left-0 w-full h-full bg-gradient-to-b rounded-b-4xl from-black via-[#040404] to-[#0a0a0a] flex flex-col items-center justify-center transition-transform duration-300 z-40 shadow-lg ${
           openNavbarMobile ? "translate-y-0" : "translate-y-full"
