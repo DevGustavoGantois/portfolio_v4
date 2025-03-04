@@ -14,6 +14,7 @@ const diferentialWorkData = [
 export function DiferentialWork() {
     return (
         <section className="max-w-[1440px] mx-auto p-8 lg:p-0 mt-20 lg:mt-60">
+            <div className="flex items-center justify-center flex-col gap-4">
             <div className="flex flex-col justify-center items-center gap-4">
                 <h1 data-aos="fade-up" className="text-center text-2xl lg:text-4xl bg-clip-text text-transparent bg-gradient-to-r from-[#FFFF] to-[#0AE7E7]">Diferenciais do meu trabalho</h1>
                 <p data-aos="fade-up" data-aos-delay="200" className="text-base text-gray-500 text-center max-w-[544px]">
@@ -29,6 +30,7 @@ export function DiferentialWork() {
                     </div>
                 )
             })}
+            </div>
             </div>
             <div className="flex items-center justify-center mt-10">
                 <ChartWorkComponent />
