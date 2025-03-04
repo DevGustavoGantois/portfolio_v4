@@ -32,7 +32,8 @@ const iconsData = [
 
 export function CTASection() {
     return (
-        <div className="flex flex-wrap justify-center items-center gap-4 mt-20">
+        <div className="flex flex-col gap-4">
+            <div className="flex flex-wrap justify-center items-center gap-4 mt-20">
             {iconsData.map((item, index) => {
                 return (
                     <div key={index} className="animate-pulse">
@@ -47,6 +48,7 @@ export function CTASection() {
                 </h1>
                 </div>
             </div>
+        </div>
         </div>
     )
 }
