@@ -4,6 +4,7 @@ import Image from "next/image";
 import React from "react";
 import { CardBody, CardContainer, CardItem } from "../ui/3d-card";
 import Link from "next/link";
+import { CertificateDialogComponent } from "../CertificateDialogComponent ";
 
 export function ThreeDCardDemo() {
   return (
@@ -53,10 +54,9 @@ export function ThreeDCardDemo() {
           <CardItem
             translateZ={20}
             translateX={40}
-            as="button"
             className="px-4 py-2 rounded-full bg-white dark:text-black text-black text-xs font-semibold"
           >
-            Certificações
+            <CertificateDialogComponent />
           </CardItem>
         </div>
       </CardBody>

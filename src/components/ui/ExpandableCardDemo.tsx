@@ -208,7 +208,7 @@ const cards = [
   {
     description: "Rafael Perrone",
     title: "Landing Page | Nutrição",
-    src: "https://assets.aceternity.com/demos/lana-del-rey.jpeg",
+    src: "/RafaelPerrone_LP.svg",
     ctaText: "Play",
     ctaLink: "https://website-nutrition-rafael-perrone.vercel.app/",
     content: () => {
@@ -224,7 +224,7 @@ const cards = [
   {
     description: "Novasce",
     title: "Landing Page | Emp. software",
-    src: "https://assets.aceternity.com/demos/babbu-maan.jpeg",
+    src: "/Novasce_LP.svg",
     ctaText: "Play",
     ctaLink: "https://novasce-website-next-tailwind-css.vercel.app/",
     content: () => {
@@ -245,7 +245,7 @@ const cards = [
   {
     description: "SF Team",
     title: "Landing Page | Bodybuilding",
-    src: "https://assets.aceternity.com/demos/metallica.jpeg",
+    src: "/SamuelFernandes_LP.svg",
     ctaText: "Play",
     ctaLink: "https://lp-sf-team-consultoria.vercel.app/",
     content: () => {
@@ -263,7 +263,7 @@ const cards = [
   {
     description: "MS Sampaio",
     title: "Landing page | Advocacía",
-    src: "https://assets.aceternity.com/demos/led-zeppelin.jpeg",
+    src: "/MS_LP.svg",
     ctaText: "Play",
     ctaLink: "https://msampaio-adv.vercel.app/",
     content: () => {
@@ -283,7 +283,7 @@ const cards = [
   {
     description: "Mônica Aran",
     title: "Landing Page | Psicologia",
-    src: "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+    src: "/MonicaAran_LP.svg",
     ctaText: "Play",
     ctaLink: "https://www.psimonicaaran.com.br/",
     content: () => {
@@ -301,7 +301,7 @@ const cards = [
   {
     description: "Full Dev Community",
     title: "Saas | MVP de gerenciamento.",
-    src: "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+    src: "/FullDev_LP.svg",
     ctaText: "Play",
     ctaLink: "https://fulldev-seven.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaZTMuQeNDinOGKcBt59yV2zoTk5G0r3EB5lYZB2tXQvOoB4sH5JM1rn0oo_aem__QaWJekN-srZCm1KDCDSzQ",
     content: () => {
@@ -321,7 +321,7 @@ const cards = [
   {
     description: "Clínica Hayashi",
     title: "Landing Page | Serv. Médicos.",
-    src: "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+    src: "/ClinicaHayashi_LP.svg",
     ctaText: "Play",
     ctaLink: "https://clinicahayashi.app.br/",
     content: () => {
@@ -340,7 +340,7 @@ const cards = [
   {
     description: "Space Blog",
     title: "Blog | Blog temático.",
-    src: "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+    src: "/SpaceBlog_LP.svg",
     ctaText: "Play",
     ctaLink: "https://space-blog-mu.vercel.app/",
     content: () => {
@@ -359,7 +359,7 @@ const cards = [
   {
     description: "Dev Streak",
     title: "Landing Page | Capt. de leads.",
-    src: "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+    src: "/DevStreak_LP.svg",
     ctaText: "Play",
     ctaLink: "https://fulldev-seven.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaZTMuQeNDinOGKcBt59yV2zoTk5G0r3EB5lYZB2tXQvOoB4sH5JM1rn0oo_aem__QaWJekN-srZCm1KDCDSzQ",
     content: () => {
